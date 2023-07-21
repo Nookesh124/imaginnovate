@@ -1,4 +1,6 @@
 vinay
 kishore
 nookesh
+nookesh is a backend dev
+kishore is frontend dev
 boby
